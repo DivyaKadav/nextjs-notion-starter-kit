@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Divya Kadav',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'domain: 'nextjs-notion-starter-kit-v98n.vercel.app',
   author: 'Divya Kadav',
 
   // open graph metadata (optional)
