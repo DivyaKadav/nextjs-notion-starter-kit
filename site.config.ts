@@ -1,7 +1,7 @@
 import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
-  rootNotionPageId: 'd828cf2500128373baae018461e5f889',
+  rootNotionPageId: '6a48cf25001283f2ae5501f33697ca5c',
   rootNotionSpaceId: null,
   name: 'Divya Kadav',
   domain: 'nextjs-notion-starter-kit-v98n.vercel.app',
